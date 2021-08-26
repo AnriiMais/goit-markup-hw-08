@@ -29,7 +29,7 @@
                 </ul>
 
             </nav>
-            <button type="button" class="burger-btn">
+            <button type="button" class="burger-btn" data-menu-open>
                 <svg class="burger-svg">
                     <use href="./images/icons.svg#icon-menu-burger">
                     </use>
@@ -55,13 +55,9 @@
                 </li>
             </ul>
         </div>
-        <div class="mobile-menu">
+        <div class="mobile-menu is-open" data-menu>
             <div class="mobile-container menu-container">
-                <button type="button" class="mobile-close-btn">
-                    <svg class="close-icon-mobile">
-                        <use href="./images/icons.svg#icon-close"></use>
-                    </svg>
-                </button>
+                
                 <ul class="mobile-nav">
                    
                     <li class="mobile-item">
@@ -94,7 +90,11 @@
                     </ul>
 
                 </div>
-                
+            <button type="button" class="mobile-close-btn" data-menu-close>
+                <svg class="close-icon-mobile">
+                    <use href="./images/icons.svg#icon-close"></use>
+                </svg>
+            </button>
             
             </div>
         </div>
@@ -454,7 +454,7 @@
             </div>
         </div>
     </footer>
-    <!-- <div class="backdrop is-hidden" data-modal>
+    <div class="backdrop is-hidden" data-modal>
         <div class="modal">
             <button type="button" class="btn-close" data-modal-close>
                 <svg class="btn-close-icon">
@@ -512,8 +512,11 @@
                 <button type="submit" class="submit-button">Отправить</button>
             </form>
         </div>
-    </div> -->
-    <!-- <script src="./jscript/modal.js"></script> -->
+    </div>
+    <script src="./jscript/modal.js"></script>
+
+    <script src="./jscript/menu.js"></script>
+
 
 </body>
 
