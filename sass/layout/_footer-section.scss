@@ -1,0 +1,212 @@
+.footer-section {
+  background-color: var(--head-foot-bgcolor);
+  padding: 60px 0;
+}
+.basement {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  @media screen and (min-width: 768px) and (max-width: 1199px) {
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: baseline;
+  }
+  @media screen and (min-width: 1200px) {
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: baseline;
+    text-align: left;
+  }
+  // margin: 0 auto;
+  // align-items: baseline;
+}
+.logo-address {
+  @media screen and (min-width: 768px) and (max-width: 1199px) {
+    // width: 50%;
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+  }
+  @media screen and (min-width: 1200px) {
+    margin-left: auto;
+  }
+  // display: flex;
+  // flex-direction: column;
+  // // justify-content: center;
+  // align-items: center;
+}
+.address-text {
+  color: #ffffff;
+
+  font-style: normal;
+  font-weight: 400;
+  line-height: 1.71;
+
+  // display: flex;
+  // flex-direction: column;
+  margin-top: 20px;
+}
+.list-ident {
+  margin-top: 8px;
+}
+.ident + .ident {
+  margin-top: 8px;
+}
+.address-text.ident {
+  margin-top: 20px;
+}
+.foot-link {
+  color: rgba(255, 255, 255, 0.6);
+  margin-top: 9px;
+  line-height: 1.71;
+
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+
+  &:hover,
+  &:focus {
+    color: var(--accent-color);
+  }
+}
+.email-box::placeholder {
+  font-size: 16px;
+  line-height: 1.25;
+
+  // display: flex;
+  // align-items: center;
+  letter-spacing: 0.03em;
+
+  color: rgba(255, 255, 255, 0.6);
+}
+
+.social-link-list {
+  margin: 60px auto;
+  @media screen and (min-width: 768px) and (max-width: 1199px) {
+    margin: 0 auto 0 165px;
+  }
+  @media screen and (min-width: 1200px) {
+    margin: 0 0 0 70px;
+  }
+}
+
+.social-link-head {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+
+  text-transform: uppercase;
+}
+
+.footer-social-list {
+  display: flex;
+  margin-top: 20px;
+}
+.foot-social-item + .foot-social-item {
+  margin-left: 10px;
+}
+
+.icon-link-footer {
+  display: inline-flex;
+  width: 44px;
+  height: 44px;
+
+  fill: var(--footer-icons);
+  background-color: rgba(255, 255, 255, 0.1);
+
+  border: 1px solid transparent;
+  border-radius: 50%;
+  overflow: hidden;
+  align-items: center;
+  justify-content: center;
+
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  &:hover,
+  &:focus {
+    background-color: var(--accent-color);
+    outline: 1px solid transparent;
+  }
+}
+
+.form-container {
+  @media screen and (min-width: 768px) and (max-width: 1199px) {
+    width: 450px;
+    margin: 60px auto 0;
+  }
+  @media screen and (min-width: 1200px) {
+    margin: 0 auto 0 93px;
+    width: 570px;
+  }
+}
+.form-container-head {
+  color: var(--btn-prime-color);
+
+  display: block;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  width: auto;
+  height: auto;
+}
+.join-form {
+  display: block;
+  // width: 100%;
+  // flex-direction: column;
+  @media screen and (min-width: 1200px) {
+    display: flex;
+  }
+}
+.email-box {
+  background-color: var(--head-foot-bgcolor);
+
+  padding: 15px;
+  width: 100%;
+  @media screen and (min-width: 1200px) {
+    width: 358px;
+    height: 50px;
+    margin-right: 12px;
+  }
+
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  box-sizing: border-box;
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
+  border-radius: 4px;
+  &:focus {
+    outline: 1px solid var(--accent-color);
+  }
+}
+input[type='email'] {
+  color: rgba(255, 255, 255, 0.6);
+
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.25;
+  letter-spacing: 0.03em;
+}
+.submit-btn {
+  color: var(--btn-prime-color);
+  background-color: var(--accent-color);
+
+  display: flex;
+  align-items: center;
+  // position: relative;
+  padding: 10px 29px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 1.87;
+  margin: 20px auto 0;
+  @media screen and (min-width: 1200px) {
+    margin: 0;
+  }
+}
+
+.submit-icon-send {
+  margin-left: 10px;
+  width: 24px;
+  height: 24px;
+  fill: var(--btn-prime-color);
+}

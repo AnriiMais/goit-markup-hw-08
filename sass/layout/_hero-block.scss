@@ -1,0 +1,41 @@
+// .greet-box.container {
+//   color: var(--btn-prime-color);
+//   display: block;
+//   // margin-left: auto;
+//   // margin-right: auto;
+// }
+
+.greeting {
+  background-color: var(--head-foot-bgcolor);
+  background-image: linear-gradient(to left, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)),
+    url('../images/overlay-background.jpg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  padding: 118px 0;
+  margin: 0 auto;
+}
+@media screen and (min-width: 1200px) {
+  .greeting {
+    padding: 200px 0;
+  }
+}
+.greeting__greeting-title {
+  color: var(--greeting-words-color);
+
+  font-weight: 900;
+  font-size: 26px;
+  line-height: 1.62;
+  text-align: center;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  max-width: 360px;
+  margin: 0 auto;
+  @media screen and (min-width: 1200px) {
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 1.36;
+    max-width: 696px;
+  }
+}
