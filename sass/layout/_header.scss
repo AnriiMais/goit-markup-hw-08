@@ -136,7 +136,8 @@
   letter-spacing: 0.02em;
 }
 .mobile-social {
-  display: flex;
+  display: inline-flex;
+  flex-wrap: wrap;
   margin-left: 25px;
 }
 .mobile-social-item + .mobile-social-item {
