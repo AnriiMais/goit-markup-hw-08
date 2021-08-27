@@ -32,6 +32,11 @@
   @media screen and (min-width: 768px) {
     flex-basis: calc(100% / 3 - 30px);
   }
+  @media screen and (min-width: 1200px) {
+    // flex-basis: calc((100% / 6 -30px));
+    max-width: 170px;
+    margin-top: 50px;
+  }
 }
 .clients-link {
   display: flex;
@@ -52,6 +57,9 @@
     fill: var(--accent-color);
     border: 1px solid var(--accent-color);
   }
+  // @media screen and (min-width: 1200px) {
+
+  // }
 }
 .clients-link-icon {
   width: 106px;

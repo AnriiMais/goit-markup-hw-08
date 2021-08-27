@@ -53,24 +53,26 @@
 .features__features-item {
   margin-top: 30px;
   @media screen and (min-width: 768px) {
-    flex-basis: calc((100% - 30px) / 2);
-    &:not(:nth-child(2n)) {
-      margin-right: 30px;
-    }
-    &:not(:nth-child(-n + 2)) {
-      margin-top: 30px;
-    }
+    flex-basis: calc((100% / 2 - 30px));
+    margin-left: 30px;
+    // &:not(:nth-child(2n)) {
+    //   margin-right: 30px;
+    // }
+    // &:not(:nth-child(-n + 2)) {
+    //   margin-top: 30px;
+    // }
   }
   @media screen and (min-width: 1200px) {
-    flex-basis: calc((100% - 90px) / 4);
-    &:not(:nth-child(2n)) {
-      margin-right: 0;
-    }
-    &:not(:nth-child(-n + 2)) {
-      margin-top: 0;
-    }
-    &:nth-child(-n + 3) {
-      margin-right: 30px;
-    }
+    flex-basis: calc((100% / 4 - 30px));
+    margin-left: 30px;
+    // &:not(:nth-child(2n)) {
+    //   margin-right: 0;
+    // }
+    // &:not(:nth-child(-n + 2)) {
+    //   margin-top: 0;
+    // }
+    // &:nth-child(-n + 3) {
+    //   margin-right: 30px;
+    // }
   }
 }
