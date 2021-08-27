@@ -111,16 +111,16 @@ body {
   color: var(--accent-color);
 }
 
-.logostyle {
-  color: var(--accent-color);
-}
-
 .foot-logo {
   color: #ffffff;
   font-family: Raleway;
   font-weight: 700;
   font-size: 26px;
   line-height: 1.19;
+}
+
+.logostyle {
+  color: var(--accent-color);
 }
 
 @media screen and (max-width: 1199px) {
