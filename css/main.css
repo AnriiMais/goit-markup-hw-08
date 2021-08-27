@@ -731,37 +731,38 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  max-width: 1600px;
   padding: 118px 0;
   margin: 0 auto;
 }
 
 @media screen and (min-device-pixel-ratio: 2) and (max-width: 767px), (-webkit-min-device-pixel-ratio: 2) and (max-width: 767px), (min-resolution: 192dpi) and (max-width: 767px), (min-resolution: 2dppx) and (max-width: 767px) {
   .greeting {
-    background-image: url("../images/background/x2/hero-bg-mobile@2x.jpg");
+    background-image: linear-gradient(to left, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("../images/background/x2/hero-bg-mobile@2x.jpg");
   }
 }
 
 @media screen and (min-width: 768px) {
   .greeting {
-    background-image: url("../images/background/hero-bg-tablet.jpg");
+    background-image: linear-gradient(to left, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("../images/background/hero-bg-tablet.jpg");
   }
 }
 
 @media screen and (min-device-pixel-ratio: 2) and (min-width: 768px), (-webkit-min-device-pixel-ratio: 2) and (min-width: 768px), (min-resolution: 192dpi) and (min-width: 768px), (min-resolution: 2dppx) and (min-width: 768px) {
   .greeting {
-    background-image: url("../images/background/x2/hero-bg-tablet@2x.jpg");
+    background-image: linear-gradient(to left, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("../images/background/x2/hero-bg-tablet@2x.jpg");
   }
 }
 
 @media screen and (min-width: 1200px) {
   .greeting {
-    background-image: url("../images/background/hero-bg-desktop.jpg");
+    background-image: linear-gradient(to left, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("../images/background/hero-bg-desktop.jpg");
   }
 }
 
 @media screen and (min-device-pixel-ratio: 2) and (min-width: 1200px), (-webkit-min-device-pixel-ratio: 2) and (min-width: 1200px), (min-resolution: 192dpi) and (min-width: 1200px), (min-resolution: 2dppx) and (min-width: 1200px) {
   .greeting {
-    background-image: url("../images/background/x2/hero-bg-desktop@2x.jpg");
+    background-image: linear-gradient(to left, rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url("../images/background/x2/hero-bg-desktop@2x.jpg");
   }
 }
 
@@ -875,7 +876,6 @@ body {
   font-size: 36px;
   line-height: 1.16;
   text-align: center;
-  text-transform: uppercase;
 }
 
 .work__examples-list {
