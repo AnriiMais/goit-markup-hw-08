@@ -575,6 +575,10 @@ body {
   letter-spacing: 0.02em;
 }
 
+.mobile-item-link.current {
+  color: var(--accent-color);
+}
+
 .contact-item-tel {
   color: var(--accent-color);
   font-weight: 500;
@@ -1074,6 +1078,8 @@ body {
 .footer-section {
   background-color: var(--head-foot-bgcolor);
   padding: 60px 0;
+  max-width: 1600px;
+  margin: 0 auto;
 }
 
 .basement {

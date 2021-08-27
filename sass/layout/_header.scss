@@ -105,6 +105,9 @@
   line-height: 1.18;
   letter-spacing: 0.02em;
 }
+.mobile-item-link.current {
+  color: var(--accent-color);
+}
 .contact-item-tel {
   color: var(--accent-color);
   font-weight: 500;
