@@ -585,9 +585,8 @@ body {
 .contact-item-tel {
   color: var(--accent-color);
   font-weight: 500;
-  font-size: 34px;
+  font-size: 30px;
   line-height: 1.18;
-  letter-spacing: 0.02em;
   margin-left: 25px;
 }
 
@@ -1082,8 +1081,6 @@ body {
 .footer-section {
   background-color: var(--head-foot-bgcolor);
   padding: 60px 0;
-  max-width: 1600px;
-  margin: 0 auto;
 }
 
 .basement {

@@ -84,24 +84,14 @@
   }
 }
 .modal-field-license {
-  // display: flex;
-  // align-items: center;
-  // margin: 0 12px;
-  // margin-bottom: 30px;
   margin: 0 auto;
 }
 .check-mark {
   position: relative;
-  // display: flex;
-  // justify-content: center;
-  // width: 100%;
-  // padding-left: 25px;
 }
 .check-text {
   display: flex;
   align-items: center;
-  //  text-align: center;
-  // margin-left: 7px;
 
   font-weight: 400;
   font-size: 12px;
@@ -113,15 +103,10 @@
   }
 }
 .input-icon-check {
-  // position: absolute;
-  // top: 50%;
-  // left: 0;
-
   fill: #ffffff;
   margin-right: 8px;
   width: 16px;
   height: 15px;
-  // transform: translate(0, -50%);
 
   border: 1px solid rgba(33, 33, 33, 1);
 
@@ -130,20 +115,6 @@
     border: 1px solid var(--accent-color);
   }
 }
-
-// .policy-head {
-//   // text-align: center;
-//   margin-left: 7px;
-
-//   font-weight: 400;
-//   font-size: 12px;
-//   line-height: 1.16;
-//   letter-spacing: 0.03em;
-//   @media screen and (min-width: 1200px) {
-//     font-size: 14px;
-//     line-height: 1.5;
-//   }
-// }
 .policy-agreement {
   font-weight: 400;
   font-size: 12px;

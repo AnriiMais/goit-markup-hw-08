@@ -1,8 +1,6 @@
 .footer-section {
   background-color: var(--head-foot-bgcolor);
   padding: 60px 0;
-  max-width: 1600px;
-  margin: 0 auto;
 }
 .basement {
   display: flex;
@@ -19,12 +17,9 @@
     align-items: baseline;
     text-align: left;
   }
-  // margin: 0 auto;
-  // align-items: baseline;
 }
 .logo-address {
   @media screen and (min-width: 768px) and (max-width: 1199px) {
-    // width: 50%;
     display: flex;
     flex-direction: column;
     margin-left: auto;
@@ -32,10 +27,6 @@
   @media screen and (min-width: 1200px) {
     margin-left: auto;
   }
-  // display: flex;
-  // flex-direction: column;
-  // // justify-content: center;
-  // align-items: center;
 }
 .address-text {
   color: #ffffff;
@@ -44,8 +35,6 @@
   font-weight: 400;
   line-height: 1.71;
 
-  // display: flex;
-  // flex-direction: column;
   margin-top: 20px;
 }
 .list-ident {
@@ -72,9 +61,6 @@
 .email-box::placeholder {
   font-size: 16px;
   line-height: 1.25;
-
-  // display: flex;
-  // align-items: center;
   letter-spacing: 0.03em;
 
   color: rgba(255, 255, 255, 0.6);
