@@ -403,6 +403,7 @@ body {
   display: flex;
   flex-wrap: wrap;
   margin-bottom: 40px;
+  margin-left: -8px;
 }
 
 @media screen and (min-width: 768px) {
@@ -411,8 +412,17 @@ body {
   }
 }
 
-.item-btn + .item-btn {
-  margin-left: 8px;
+@media screen and (max-width: 767px) {
+  .item-btn {
+    margin-top: 15px;
+    margin-left: 8px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .item-btn + .item-btn {
+    margin-left: 8px;
+  }
 }
 
 .btn {
@@ -676,8 +686,15 @@ body {
   .container-nav__list-nav + .container-nav__list-nav {
     margin-left: 50px;
   }
-  .icon-decoration {
+  .icon-decoration-mail {
     margin-right: 10px;
+    width: 14px;
+    height: 10px;
+  }
+  .icon-decoration-tel {
+    margin-right: 10px;
+    width: 10px;
+    height: 14px;
   }
 }
 
@@ -695,6 +712,16 @@ body {
   .contacts__contacts-link {
     padding-top: 32px;
     padding-bottom: 32px;
+  }
+  .icon-decoration-mail {
+    margin-right: 10px;
+    width: 16px;
+    height: 12px;
+  }
+  .icon-decoration-tel {
+    margin-right: 10px;
+    width: 10px;
+    height: 16px;
   }
 }
 
@@ -1295,6 +1322,16 @@ input[type='email'] {
   line-height: 1.87;
 }
 
+.list-item-link {
+  display: flex;
+  flex-direction: column;
+  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.list-item-link:focus, .list-item-link:hover {
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
+}
+
 .work-list {
   display: flex;
   flex-wrap: wrap;
@@ -1311,6 +1348,10 @@ input[type='email'] {
   margin-top: 30px;
 }
 
+.list-item {
+  display: flex;
+}
+
 @media screen and (min-width: 768px) {
   .list-item {
     flex-basis: calc(100% / 2 - 30px);
@@ -1325,15 +1366,8 @@ input[type='email'] {
   }
 }
 
-.list-item-link {
-  transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
-}
-
-.list-item-link:focus, .list-item-link:hover {
-  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06), 1px 4px 6px rgba(0, 0, 0, 0.16);
-}
-
 .description-card {
+  flex-grow: 1;
   padding: 20px 24px;
   border: 1px solid #eeeeee;
   border-top: 0px;
