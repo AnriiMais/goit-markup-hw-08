@@ -116,12 +116,17 @@
 }
 
 .policy-head {
-  text-align: center;
+  // text-align: center;
   margin-left: 7px;
+
   font-weight: 400;
-  font-size: 14px;
-  line-height: 1.5;
+  font-size: 12px;
+  line-height: 1.16;
   letter-spacing: 0.03em;
+  @media screen and (min-width: 1200px) {
+    font-size: 14px;
+    line-height: 1.5;
+  }
 }
 .policy-agreement {
   color: var(--accent-color);
@@ -131,8 +136,6 @@
   background-color: var(--accent-color);
   color: var(--btn-prime-color);
 
-  // width: 200px;
-  // height: 50px;
   padding: 10px 55px;
   border-radius: 4px;
   align-self: center;

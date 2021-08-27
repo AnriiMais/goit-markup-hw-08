@@ -1,0 +1,122 @@
+ Volume in drive D has no label.
+ Volume Serial Number is B0A1-0BED
+
+ Directory of D:\Git Hub Desktop\goit-markup-hw-08\images\main
+
+26.08.2021  23:32    <DIR>          .
+26.08.2021  23:32    <DIR>          ..
+26.08.2021  23:32                 0 filelist.txt
+26.08.2021  22:21    <DIR>          main-webp
+26.08.2021  14:06            80ÿ263 our-job-1.jpg
+26.08.2021  14:06           109ÿ512 our-job-2.jpg
+26.08.2021  14:06           136ÿ250 our-job-3.jpg
+26.08.2021  22:21    <DIR>          team
+26.08.2021  22:21    <DIR>          x2
+               4 File(s)        326ÿ025 bytes
+
+ Directory of D:\Git Hub Desktop\goit-markup-hw-08\images\main\main-webp
+
+26.08.2021  22:21    <DIR>          .
+26.08.2021  22:21    <DIR>          ..
+26.08.2021  14:08             7ÿ306 our-job-1.webp
+26.08.2021  14:08            10ÿ080 our-job-2.webp
+26.08.2021  14:08            13ÿ174 our-job-3.webp
+26.08.2021  22:21    <DIR>          x2
+               3 File(s)         30ÿ560 bytes
+
+ Directory of D:\Git Hub Desktop\goit-markup-hw-08\images\main\main-webp\x2
+
+26.08.2021  22:21    <DIR>          .
+26.08.2021  22:21    <DIR>          ..
+26.08.2021  19:41            15ÿ790 our-job-1@2x.webp
+26.08.2021  19:41            21ÿ408 our-job-2@2x.webp
+26.08.2021  19:41            30ÿ382 our-job-3@2x.webp
+               3 File(s)         67ÿ580 bytes
+
+ Directory of D:\Git Hub Desktop\goit-markup-hw-08\images\main\team
+
+26.08.2021  22:21    <DIR>          .
+26.08.2021  22:21    <DIR>          ..
+26.08.2021  14:04            17ÿ775 img-1-270.jpg
+26.08.2021  14:04            30ÿ598 img-1-354.jpg
+26.08.2021  14:04            14ÿ439 img-1-450.jpg
+26.08.2021  13:56            22ÿ228 img-2-270.jpg
+26.08.2021  13:56            37ÿ789 img-2-354.jpg
+26.08.2021  13:56            20ÿ582 img-2-450.jpg
+26.08.2021  13:51            18ÿ835 img-3-250.jpg
+26.08.2021  13:51            31ÿ855 img-3-354.jpg
+26.08.2021  13:51            15ÿ671 img-3-450.jpg
+26.08.2021  11:16            21ÿ537 img-4-270.jpg
+26.08.2021  11:16            33ÿ764 img-4-354.jpg
+26.08.2021  11:16            17ÿ657 img-4-450.jpg
+26.08.2021  22:21    <DIR>          team-webp
+26.08.2021  22:21    <DIR>          x2
+              12 File(s)        282ÿ730 bytes
+
+ Directory of D:\Git Hub Desktop\goit-markup-hw-08\images\main\team\team-webp
+
+26.08.2021  22:21    <DIR>          .
+26.08.2021  22:21    <DIR>          ..
+26.08.2021  14:05             3ÿ812 team-1-270.webp
+26.08.2021  14:05             8ÿ020 team-1-354.webp
+26.08.2021  14:05             5ÿ896 team-1-450.webp
+26.08.2021  11:31            19ÿ972 team-2-270.webp
+26.08.2021  11:31             6ÿ612 team-2-354.webp
+26.08.2021  11:31             8ÿ648 team-2-450.webp
+26.08.2021  11:31            16ÿ132 team-3-270.webp
+26.08.2021  11:31             5ÿ392 team-3-354.webp
+26.08.2021  11:31             7ÿ138 team-3-450.webp
+26.08.2021  11:31            17ÿ132 team-4-270.webp
+26.08.2021  11:32             6ÿ044 team-4-354.webp
+26.08.2021  11:32             7ÿ948 team-4-450.webp
+26.08.2021  22:21    <DIR>          x2
+              12 File(s)        112ÿ746 bytes
+
+ Directory of D:\Git Hub Desktop\goit-markup-hw-08\images\main\team\team-webp\x2
+
+26.08.2021  22:21    <DIR>          .
+26.08.2021  22:21    <DIR>          ..
+26.08.2021  14:54            14ÿ178 team-1-tablet@2x.webp
+26.08.2021  14:54             9ÿ004 team-1-dasktop@2x.webp
+26.08.2021  14:54            19ÿ354 team-1-mobile@2x.webp
+26.08.2021  14:56            11ÿ768 team-2-dasktop@2x.webp
+26.08.2021  13:56            50ÿ767 team-2-mobile@2x.jpg
+26.08.2021  13:56            36ÿ639 team-2-tablet@2x.jpg
+26.08.2021  14:56             9ÿ862 team-3-dasktop@2x.webp
+26.08.2021  14:56            19ÿ356 team-3-mobile@2x.webp
+26.08.2021  14:56            14ÿ284 team-3-tablet@2x.webp
+26.08.2021  14:55            11ÿ072 team-4-dasktop@2x.webp
+26.08.2021  14:55            19ÿ904 team-4-mobile@2x.webp
+26.08.2021  14:55            14ÿ772 team-4-tablet@2x.webp
+              12 File(s)        230ÿ960 bytes
+
+ Directory of D:\Git Hub Desktop\goit-markup-hw-08\images\main\team\x2
+
+26.08.2021  22:21    <DIR>          .
+26.08.2021  22:21    <DIR>          ..
+26.08.2021  14:04            19ÿ632 img-1-270@2x.jpg
+26.08.2021  14:04            29ÿ098 img-1-354@2x.jpg
+26.08.2021  14:04            40ÿ661 img-1-450@2x.jpg
+26.08.2021  13:56            31ÿ383 img-2-270@2x.jpg
+26.08.2021  13:56            36ÿ639 img-2-354@2x.jpg
+26.08.2021  13:56            50ÿ767 img-2-450@2x.jpg
+26.08.2021  19:20            14ÿ873 img-3-250@2x.jpg
+26.08.2021  13:51            29ÿ094 img-3-354@2x.jpg
+26.08.2021  13:51            41ÿ259 img-3-450@2x.jpg
+26.08.2021  19:10            17ÿ313 img-4-270@2x.jpg
+26.08.2021  11:16            31ÿ431 img-4-354@2x.jpg
+26.08.2021  11:16            42ÿ845 img-4-450@2x.jpg
+              12 File(s)        384ÿ995 bytes
+
+ Directory of D:\Git Hub Desktop\goit-markup-hw-08\images\main\x2
+
+26.08.2021  22:21    <DIR>          .
+26.08.2021  22:21    <DIR>          ..
+26.08.2021  19:39            34ÿ190 our-job-1@2x.jpg
+26.08.2021  19:39            47ÿ105 our-job-2@2x.jpg
+26.08.2021  19:39            69ÿ053 our-job-3@2x.jpg
+               3 File(s)        150ÿ348 bytes
+
+     Total Files Listed:
+              61 File(s)      1ÿ585ÿ944 bytes
+              23 Dir(s)  142ÿ887ÿ014ÿ400 bytes free

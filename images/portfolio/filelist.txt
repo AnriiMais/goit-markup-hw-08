@@ -1,0 +1,149 @@
+ Volume in drive D has no label.
+ Volume Serial Number is B0A1-0BED
+
+ Directory of D:\Git Hub Desktop\goit-markup-hw-08\images\portfolio
+
+26.08.2021  23:34    <DIR>          .
+26.08.2021  23:34    <DIR>          ..
+26.08.2021  23:34                 0 filelist.txt
+26.08.2021  22:21    <DIR>          portfolio-cards
+26.08.2021  22:21    <DIR>          portfolio-cards-webp
+               1 File(s)              0 bytes
+
+ Directory of D:\Git Hub Desktop\goit-markup-hw-08\images\portfolio\portfolio-cards
+
+26.08.2021  22:21    <DIR>          .
+26.08.2021  22:21    <DIR>          ..
+26.08.2021  18:01             8ÿ556 card-1-desktop.jpg
+26.08.2021  18:01            13ÿ963 card-1-mobile.jpg
+26.08.2021  18:01             8ÿ691 card-1-tablet.jpg
+26.08.2021  18:01            17ÿ045 card-2-desktop.jpg
+26.08.2021  18:11             7ÿ624 card-2-mobile.webp
+26.08.2021  18:01            15ÿ047 card-2-tablet.jpg
+26.08.2021  18:00             6ÿ884 card-3-desktop.jpg
+26.08.2021  18:00             9ÿ064 card-3-mobile.jpg
+26.08.2021  18:00             6ÿ229 card-3-tablet.jpg
+26.08.2021  12:21             3ÿ619 card-4-desktop.jpg
+26.08.2021  12:21             5ÿ529 card-4-mobile.jpg
+26.08.2021  12:21             4ÿ132 card-4-tablet.jpg
+26.08.2021  12:21             3ÿ199 card-5-desktop.jpg
+26.08.2021  12:21             4ÿ534 card-5-mobile.jpg
+26.08.2021  12:21             3ÿ491 card-5-tablet.jpg
+26.08.2021  12:25             4ÿ087 card-6-desktop.jpg
+26.08.2021  12:25             6ÿ995 card-6-mobile.jpg
+26.08.2021  12:25             4ÿ992 card-6-tablet.jpg
+23.08.2021  19:06             7ÿ353 card-7-desktop.jpg
+25.08.2021  15:44            14ÿ612 card-7-mobile.jpg
+25.08.2021  15:45            10ÿ566 card-7-tablet.jpg
+23.08.2021  19:06             4ÿ476 card-8-desctop.jpg
+25.08.2021  15:44             7ÿ442 card-8-mobile.jpg
+25.08.2021  15:45             6ÿ680 card-8-tablet.jpg
+23.08.2021  19:06            14ÿ835 card-9-desktop.jpg
+25.08.2021  15:44            26ÿ860 card-9-mobile.jpg
+25.08.2021  15:45            22ÿ804 card-9-tablet.jpg
+26.08.2021  22:21    <DIR>          x2
+              27 File(s)        249ÿ309 bytes
+
+ Directory of D:\Git Hub Desktop\goit-markup-hw-08\images\portfolio\portfolio-cards\x2
+
+26.08.2021  22:21    <DIR>          .
+26.08.2021  22:21    <DIR>          ..
+26.08.2021  11:58            16ÿ697 card-1-desktop@2x.jpg
+26.08.2021  11:58            21ÿ143 card-1-mobile@2x.jpg
+26.08.2021  11:58            15ÿ735 card-1-tablet@2x.jpg
+26.08.2021  11:58            75ÿ505 card-2-desktop@2x.jpg
+26.08.2021  11:58           102ÿ116 card-2-mobile@2x.jpg
+26.08.2021  11:58            68ÿ461 card-2-tablet@2x.jpg
+26.08.2021  11:58            22ÿ085 card-3-desktop@2x.jpg
+26.08.2021  11:58            27ÿ693 card-3-mobile@2x.jpg
+26.08.2021  11:58            20ÿ775 card-3-tablet@2x.jpg
+26.08.2021  12:21            11ÿ616 card-4-370@2x.jpg
+26.08.2021  12:21            14ÿ447 card-4-mobile@2x.jpg
+26.08.2021  12:21            10ÿ957 card-4-tablet@2x.jpg
+26.08.2021  12:21            10ÿ577 card-5-desktop@2x.jpg
+26.08.2021  12:21            13ÿ283 card-5-mobile@2x.jpg
+26.08.2021  12:21            10ÿ065 card-5-tablet@2x.jpg
+26.08.2021  12:25            15ÿ109 card-6-desktop@2x.jpg
+26.08.2021  12:25            20ÿ132 card-6-mobile@2x.jpg
+26.08.2021  12:25            14ÿ592 card-6-tablet@2x.jpg
+26.08.2021  15:53            19ÿ766 card-7-desktop@2x.jpg
+26.08.2021  15:56            26ÿ217 card-7-mobile@2x.jpg
+26.08.2021  15:54            18ÿ979 card-7-tablet@2x.jpg
+26.08.2021  15:53            11ÿ559 card-8-desktop@2x.jpg
+26.08.2021  15:56            12ÿ467 card-8-mobile@2.jpg
+26.08.2021  15:54            11ÿ489 card-8-tablet@2x.jpg
+26.08.2021  15:53            40ÿ384 card-9-desktop@2.jpg
+26.08.2021  15:56            47ÿ030 card-9-mobile@2.jpg
+26.08.2021  15:54            39ÿ340 card-9-tablet@2x.jpg
+              27 File(s)        718ÿ219 bytes
+
+ Directory of D:\Git Hub Desktop\goit-markup-hw-08\images\portfolio\portfolio-cards-webp
+
+26.08.2021  22:21    <DIR>          .
+26.08.2021  22:21    <DIR>          ..
+26.08.2021  11:30             2ÿ980 card-1-desktop.webp
+26.08.2021  11:30             3ÿ894 card-1-mobile.webp
+26.08.2021  11:29             2ÿ818 card-1-tablet.webp
+26.08.2021  11:30            10ÿ602 card-2-desktop.webp
+26.08.2021  11:30            11ÿ906 card-2-mobile.webp
+26.08.2021  11:30             9ÿ542 card-2-tablet.webp
+26.08.2021  11:30             5ÿ600 card-3-desktop.webp
+26.08.2021  11:30             6ÿ864 card-3-mobile.webp
+26.08.2021  11:30             5ÿ174 card-3-tablet.webp
+26.08.2021  11:30             2ÿ570 card-4-desktop.webp
+26.08.2021  11:30             3ÿ164 card-4-mobile.webp
+26.08.2021  11:30             2ÿ484 card-4-tablet.webp
+26.08.2021  11:30             1ÿ946 card-5-desktop.webp
+26.08.2021  11:30             2ÿ450 card-5-mobile.webp
+26.08.2021  11:30             1ÿ840 card-5-tablet.webp
+26.08.2021  11:30             2ÿ510 card-6-desktop.webp
+26.08.2021  11:31             3ÿ414 card-6-mobile.webp
+26.08.2021  11:30             2ÿ286 card-6-tablet.webp
+26.08.2021  11:31             4ÿ846 card-7-desktop.webp
+26.08.2021  11:31             6ÿ214 card-7-mobile.webp
+26.08.2021  11:31             4ÿ354 card-7-tablet.webp
+26.08.2021  11:31             2ÿ774 card-8-desktop.webp
+26.08.2021  11:31             3ÿ034 card-8-mobile.webp
+26.08.2021  11:31             2ÿ786 card-8-tablet.webp
+26.08.2021  11:31            11ÿ308 card-9-desktop.webp
+26.08.2021  11:31            12ÿ334 card-9-mobile.webp
+26.08.2021  11:31            10ÿ718 card-9-tablet.webp
+26.08.2021  22:21    <DIR>          x2
+              27 File(s)        140ÿ412 bytes
+
+ Directory of D:\Git Hub Desktop\goit-markup-hw-08\images\portfolio\portfolio-cards-webp\x2
+
+26.08.2021  22:21    <DIR>          .
+26.08.2021  22:21    <DIR>          ..
+26.08.2021  14:54             8ÿ232 card-1-desktop@2x.webp
+26.08.2021  14:53            10ÿ498 card-1-mobile@2x.webp
+26.08.2021  14:53             7ÿ772 card-1-tablet@2x.webp
+26.08.2021  14:50            33ÿ956 card-2-desktop@2x.webp
+26.08.2021  14:48            40ÿ484 card-2-mobile@2x.webp
+26.08.2021  14:50            33ÿ050 card-2-tablet@2x.webp
+26.08.2021  14:53            13ÿ666 card-3-desktop@2x.webp
+26.08.2021  14:50            17ÿ656 card-3-mobile@2x.webp
+26.08.2021  14:53            13ÿ086 card-3-tablet@2x.webp
+26.08.2021  12:21             5ÿ678 card-4-desktop@2x.webp
+26.08.2021  12:21             6ÿ954 card-4-mobile@2x.webp
+26.08.2021  12:21             5ÿ424 card-4-tablet@2x.webp
+26.08.2021  12:21             4ÿ462 card-5-desktop@2x.webp
+26.08.2021  12:21             5ÿ536 card-5-mobile@2x.webp
+26.08.2021  12:21             4ÿ310 card-5-tablet@2x.webp
+26.08.2021  12:25             7ÿ198 card-6-desktop@2x.webp
+26.08.2021  12:25             9ÿ318 card-6-mobile@2x.webp
+26.08.2021  12:25             6ÿ844 card-6-tablet@2x.webp
+26.08.2021  15:58            11ÿ912 card-7-desktop@2x.webp
+26.08.2021  15:57            15ÿ230 card-7-mobile@2x.webp
+26.08.2021  15:58            11ÿ336 card-7-tablet@2x.webp
+26.08.2021  15:58             6ÿ440 card-8-desktop@2x.webp
+26.08.2021  15:57             6ÿ978 card-8-mobile@2x.webp
+26.08.2021  15:58             6ÿ300 card-8-tablet@2x.webp
+26.08.2021  15:58            26ÿ862 card-9-desktop@2.webp
+26.08.2021  15:57            30ÿ916 card-9-mobile@2.webp
+26.08.2021  15:58            26ÿ244 card-9-tablet@2x.webp
+              27 File(s)        376ÿ342 bytes
+
+     Total Files Listed:
+             109 File(s)      1ÿ484ÿ282 bytes
+              14 Dir(s)  142ÿ887ÿ006ÿ208 bytes free
